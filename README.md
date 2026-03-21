@@ -38,8 +38,6 @@ O projeto foi desenvolvido com foco em aprendizado e prática de desenvolvimento
 - Integração com banco de dados MySQL
 - Interface gráfica construída com WindowBuilder
 
-*(Você pode adicionar mais depois)*
-
 ---
 
 ## 🗄️ Banco de dados
@@ -53,7 +51,6 @@ O sistema utiliza MySQL para armazenamento das informações.
 ## 📌 Status do projeto
 
 🚧 Em desenvolvimento  
-*(ou “Concluído”, se já terminou)*
 
 ---
 
@@ -77,4 +74,4 @@ Este projeto foi desenvolvido com fins educacionais e práticos, sendo uma aplic
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT (ou a que você escolher).
+Este projeto está sob a licença MIT
