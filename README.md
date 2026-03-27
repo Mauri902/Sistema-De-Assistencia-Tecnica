@@ -1,6 +1,6 @@
 ![GitHub License](https://img.shields.io/github/license/diegoog26/hub-links?style=for-the-badge)
 
-# IFixTec Tecnologia - Sistema de Gestão
+# IFixTec - Sistema de Gestão de clientes
 
 ## 📖 Sobre o projeto
 Este projeto foi desenvolvido como uma aplicação desktop voltada para a gestão de serviços da empresa **IFixTec Tecnologia**.
