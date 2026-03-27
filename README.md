@@ -28,7 +28,7 @@ O projeto foi desenvolvido com foco em aprendizado e prática de desenvolvimento
 ### Participantes:
 - Diego de Oliveira Galdino
 - Paulo Roberto
-- Maurício
+- Maurício Sena
 
 ---
 
