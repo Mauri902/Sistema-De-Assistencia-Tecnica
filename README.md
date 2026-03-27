@@ -26,7 +26,7 @@ Este é o meu primeiro projeto prático desenvolvido para um cliente real, marca
 O projeto foi desenvolvido com foco em aprendizado e prática de desenvolvimento back-end integrado com banco de dados.
 
 ### Participantes:
-- Diego de Oliveira Galdino
+- Diego de Oliveira
 - Paulo Roberto
 - Maurício Sena
 
