@@ -17,26 +17,6 @@ foto_equipamento longblob,
 status enum ('Aguardando atendimento', 'Em andamento', 'Concluído'),
 data_entrada datetime default current_timestamp
 )default charset = utf8;
- 
-desc assistencia;
 
-insert into assistencia (
-nome_cliente,
-telefone,
-equipamento,
-defeito,
-descricao_servico,
-valor,
-foto_equipamento
-) values (
-'Mauricio Sena',
-'11999999999',
-'Notebook Samsung',
-'Não liga',
-'tela não conectada',
-300.00,
-'Downloads/notebook1.jpg');
-
-select * from assistencia;
 
 
